@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm a New Developer that want learnign more ✨
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlz1013)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noneda)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
