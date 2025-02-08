@@ -1,10 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Junior Software Developer<br>👯 I’m looking to collaborate on Open Sources Projects<br>🤝 I’m looking for help with … I don´t Know... I am new Developer and I love Program<br>🌱 I’m currently learning news skill
 
-
-# Porfolio 
-[![Libro](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Book_icon.svg/120px-Book_icon.svg.png)](https://portfolio-nonedas-projects.vercel.app/)
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nonejda) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nonejda) 
 
