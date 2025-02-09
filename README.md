@@ -47,8 +47,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noneda&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&custom_title=My%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noneda&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&custom_title=My%20Languajes" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=noneda&hide_title=true&border_radius=22&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&custom_title=My%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noneda&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&border_radius=22&custom_title=My%20Languajes" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=noneda&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=22&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
 </div>
 
