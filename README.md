@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="right">I'm a software developer from **Colombia**, with a strong interest in **web development, deep learning, and cybersecurity**. I love exploring new technologies, solving challenges, and contributing to open-source projects.</p>
+<p align="right">I'm a software developer from <b>Colombia</b>, with a strong interest in <b>web development, deep learning, and cybersecurity</b>. I love exploring new technologies, solving challenges, and contributing to open-source projects.</p>
 
 ###
 
